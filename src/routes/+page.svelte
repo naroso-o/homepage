@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div>
+	<h3>안녕하세요, 나소현입니다.</h3>
+	<p>이 공간에는 배너, Projects 요약, Notes 요약이 들어갈 예정입니다.</p>
+</div>
