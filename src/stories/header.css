@@ -2,8 +2,8 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-	padding: 0px 32px 4px 32px;
+	/* border-bottom: 1px solid rgba(0, 0, 0, 0.1); */
+	padding: 12px 64px 16px 32px;
 	font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -31,13 +31,13 @@
 .storybook-header .navigation {
 	list-style-type: none;
 	display: flex;
-	gap: 1.5em;
+	gap: 2.5em;
 	margin: 0;
 	padding: 0;
 }
 
 .storybook-header .navigation a {
-	font-size: 14px;
+	font-size: 16px;
 	text-decoration: none;
 	color: #030303;
 }

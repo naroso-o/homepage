@@ -1,4 +1,14 @@
-<div>
-	<h3>안녕하세요, 나소현입니다.</h3>
-	<p>이 공간에는 배너, Projects 요약, Notes 요약이 들어갈 예정입니다.</p>
+<script>
+	import Banner from '$lib/components/banner.svelte';
+</script>
+
+<div class="home-container">
+	<Banner />
 </div>
+
+<style>
+	.home-container {
+		width: calc(100%-128px);
+		padding: 2em 4em 2em 4em;
+	}
+</style>
